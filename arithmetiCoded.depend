@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524481224 source:d:\lecture(3,2)\data compression\assignment 1\arithmeticoded\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<math.h>
+
